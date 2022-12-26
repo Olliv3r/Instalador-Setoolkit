@@ -52,6 +52,7 @@ Mais ferramentas de brinde:
 
 - [x] Social-Engineer Toolkit
 - [x] Metasploit-framework
+- [x] Nmap
 - [x] Aircrack-ng
 - [x] Nginx
 - [x] Apache2
