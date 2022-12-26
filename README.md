@@ -22,6 +22,9 @@ Adicione o repositório do Kali ao ambiente proot:
 
 Ferramentas:
 
-- [x] Setoolkit
-- [x] Metasploit
+- [x] Social-Engineer Toolkit
+- [x] Metasploit-framework
+- [x] Aircrack-ng
+- [x] Nginx
+- [x] Apache2
 - [ ] Outros
