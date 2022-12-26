@@ -2,7 +2,7 @@
 Instalador Setoolkit completo com a versão mais recente + Metasploit em ambiente Proot
 
 ## Instalação
-### Obs! Necessário ter no mínimo 2GB de espaço em disco.
+#### Obs! Necessário ter no mínimo 2GB de espaço em disco.
 
 #### Instale um ambiente proot ao termux:
 ```
@@ -18,7 +18,16 @@ git clone https://github.com/LionSec/katoolin.git &&
 cd katoolin && 
 python2 ./katoolin.py
 ```
-Adicione o repositório do Kali ao ambiente proot:
+##### Adicione o repositório do Kali ao ambiente proot:
+Escolha as opçôes: `1`, `1`, `2` e depois que finalizar der Ctr+C pra sair do Katoolin
+
+#### Instale o setoolkit dentro do ambiente proot:
+*Vá passear ou tomar um café enquanto o processo de instalação finalize*
+```
+apt-get install set -y
+```
+
+Depois que terminar é so brincar.
 
 Ferramentas:
 
