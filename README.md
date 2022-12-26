@@ -21,7 +21,12 @@ python2 ./katoolin.py
 ##### Adicione o repositório do Kali ao ambiente proot:
 Escolha as opçôes: `1`, `1`, `2` e depois que finalizar der Ctr+C pra sair do Katoolin:
 
+Escolher a opção `1` Repositório & Update:
 ![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/katoolin.jpg)
+
+Escolher a opção `1` para adicionar repositório do kali:
+![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/katoolin opcao 1.jpg)
+
 
 #### Instale o setoolkit dentro do ambiente proot:
 *Vá passear ou tomar um café enquanto o processo de instalação finalize*
