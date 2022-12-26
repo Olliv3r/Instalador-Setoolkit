@@ -19,24 +19,36 @@ cd katoolin &&
 python2 ./katoolin.py
 ```
 ##### Adicione o repositório do Kali ao ambiente proot:
-Escolha as opçôes: `1`, `1`, `2` e depois que finalizar der Ctr+C pra sair do Katoolin:
+Escolha as opçôes: `1`, `1`, `2` e depois que finalizar der Ctr+C pra sair do Katoolin
 
-Escolher a opção `1` Repositório & Update:
+Opção `1` Repositòrio & Atualização:
 ![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/katoolin.jpg)
 
-Escolher a opção `1` para adicionar repositório do kali:
-![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/katoolin opcao 1.jpg)
+Opção `1` Adicionar Repositório do kali:
+![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/katoolin_opcao_1.jpg)
 
+Opção `2` Atualizar Repositório:
+![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/katoolin_opcao_2.jpg)
+
+Opção `CTR+C` para sair do programa:
+![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/katoolin_interrupido.jpg)
 
 #### Instale o setoolkit dentro do ambiente proot:
 *Vá passear ou tomar um café enquanto o processo de instalação finalize*
 ```
 apt-get install set -y
 ```
-
 Depois que terminar é so brincar.
 
-Ferramentas:
+#### Ferramentas
+
+##### Setoolkit:
+![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/setoolkit.jpg)
+
+##### Metasploit:
+![katoolin](https://github.com/Olliv3r/Instalador-Setoolkit/blob/main/media/metasploit.jpg)
+
+Mais ferramentas de brinde:
 
 - [x] Social-Engineer Toolkit
 - [x] Metasploit-framework
