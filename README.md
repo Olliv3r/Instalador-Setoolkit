@@ -13,7 +13,7 @@ proot-distro install debian && proot-distro login debian
 #### Instale o katoolin dentro do ambiente proot:
 ```
 apt-get update && 
-apt-get install python2 git -y && 
+apt-get install python2 git gnupg gnupg2 gnupg1 -y && 
 git clone https://github.com/LionSec/katoolin.git && 
 cd katoolin && 
 python2 ./katoolin.py
